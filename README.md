@@ -19,7 +19,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 - Responsive Design
 
 ## Live Demo 🌐
-https://aniluppari851.github.io/Portfolio/
+https://aniluppari851.github.io/CodeAlpha_Portfolio/
 
 
 ## Sections Included 📂
